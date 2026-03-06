@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Maple",
+  "base_artist": "MIMI",
+  "createdAt": "2026-03-06T08:31:56.244736Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Maple Syrup Tears",
+      "artist": "Huron John",
+      "has_synced": true,
+      "path": "select/01_Maple_Syrup_Tears_Huron_John.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Maple Syrup Tears",
+      "artist": "Huron John",
+      "has_synced": false,
+      "path": "select/02_Maple_Syrup_Tears_Huron_John.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Maple Leaves",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/03_Maple_Leaves_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Maple Leaves - 7\" version",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/04_Maple_Leaves_-_7__version_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Maple Leaves (EP Version)",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/05_Maple_Leaves_(EP_Version)_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Maple Syrup",
+      "artist": "$uicideBoy$ feat. Bones",
+      "has_synced": true,
+      "path": "select/06_Maple_Syrup_$uicideBoy$_feat._Bones.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Maple $yrup (Feat. Bones)",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/07_Maple_$yrup_(Feat._Bones)_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Maple Syrup (DJ Poliwhirl Remix / Bonus Track)",
+      "artist": "$uicideBoy$ feat. Bones",
+      "has_synced": false,
+      "path": "select/08_Maple_Syrup_(DJ_Poliwhirl_Remix___Bonus_Track)_$uicideBoy$_feat._Bones.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Maple $yrup (Feat. Bones) (DJ Poliwhirl Remix) [Bonus Track]",
+      "artist": "$uicideboy$",
+      "has_synced": true,
+      "path": "select/09_Maple_$yrup_(Feat._Bones)_(DJ_Poliwhirl_Remix)_[Bonus_Track]_$uicideboy$.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bonjour, Hi! (Maple She-Rups Version)",
+      "artist": "The Cast of Canada's Drag Race: Canada vs The World",
+      "has_synced": true,
+      "path": "select/10_Bonjour,_Hi!_(Maple_She-Rups_Version)_The_Cast_of_Canada's_Drag_Race__Canada_vs_The_World.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Love & Maple Syrup",
+      "artist": "Gordon Lightfoot",
+      "has_synced": true,
+      "path": "select/11_Love_&_Maple_Syrup_Gordon_Lightfoot.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Fire Maple Song",
+      "artist": "Everclear",
+      "has_synced": true,
+      "path": "select/12_Fire_Maple_Song_Everclear.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Fire Maple Song",
+      "artist": "Everclear",
+      "has_synced": true,
+      "path": "select/13_Fire_Maple_Song_Everclear.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bring You Down (feat. George Maple)",
+      "artist": "Flume",
+      "has_synced": true,
+      "path": "select/14_Bring_You_Down_(feat._George_Maple)_Flume.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Maple Syrup",
+      "artist": "The Backseat Lovers",
+      "has_synced": true,
+      "path": "select/15_Maple_Syrup_The_Backseat_Lovers.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Maple Licorice",
+      "artist": "of Montreal",
+      "has_synced": false,
+      "path": "select/16_Maple_Licorice_of_Montreal.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Maple",
+      "artist": "Hayley Kiyoko",
+      "has_synced": true,
+      "path": "select/17_Maple_Hayley_Kiyoko.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Maple",
+      "artist": "MIMI, 羽累",
+      "has_synced": false,
+      "path": "select/pl_01_Maple_MIMI,_羽累.txt"
+    }
+  ]
+}
